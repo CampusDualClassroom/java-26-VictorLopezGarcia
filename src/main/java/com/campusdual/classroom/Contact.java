@@ -141,10 +141,6 @@ public class Contact implements ICallActions{
         this.phone = phone;
     }
 
-    public List<String> getPhones() {
-        return phones;
-    }
-
     public String getCode() {
         return code;
     }
